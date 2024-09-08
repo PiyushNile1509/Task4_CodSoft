@@ -3,7 +3,7 @@
 
 ## Author: Piyush Nile
 
-## Batch: July
+## Batch: August
 
 ## Domain: Data Science
 
